@@ -55,6 +55,10 @@ In particular, the main dependencies are:
 
 The framework has been tested in Linux and Windows 11.
 
+**Note:** Some analyses may take longer to complete depending on your machine's performance. 
+The minimum requirements are the same as those of [Flamapy](https://flamapy.github.io/). 
+Please note that the analyses involve converting models to BDD and SAT representations, which are computationally expensive tasks (NP problems). All our experiments were successfully executed on a laptop with a Intel Core i7-1355U and 16 GB of RAM.
+
 
 ### Download and installation
 1. Install [Python 3.9+](https://www.python.org/)
