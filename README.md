@@ -50,7 +50,7 @@ The artifact includes:
 We relies on [flamapy](https://flamapy.github.io/) to analyze the datasets.
 In particular, the main dependencies are:
 
-- [Python 3.9+](https://www.python.org/)
+- [Python 3.11+](https://www.python.org/)
 - [Flamapy](https://flamapy.github.io/)
 
 The framework has been tested in Linux and Windows 11.
@@ -61,7 +61,7 @@ Please note that the analyses involve converting models to BDD and SAT represent
 
 
 ### Download and installation
-1. Install [Python 3.9+](https://www.python.org/)
+1. Install [Python 3.11+](https://www.python.org/)
 2. Download/Clone this repository and enter into the main directory.
 
     `git clone https://github.com/jmhorcas/restaurant-domain.git`
@@ -78,6 +78,10 @@ Please note that the analyses involve converting models to BDD and SAT represent
 5. Install dependencies (flamapy): `pip install -r requirements.txt`
      
     ** In case that you are running Ubuntu and get an error installing flamapy, please install the package python3-dev with the command `sudo apt update && sudo apt install python3-dev` and update wheel and setuptools with the command `pip  install --upgrade pip wheel setuptools` before step 5.
+
+6. Check if you have already installed the latest version of flamapy using: `pip freeze`
+
+  **Check if `flamapy-fm==2.0.2.dev0`, in other case, please update the feature model plugin of flamapy using: `pip install flamapy-fm==2.0.2.dev0`
 
 
 ### Execution of the scripts
