@@ -1,0 +1,17 @@
+Model,BooleanFeatures,GroupKeywords,BooleanConstraints,FeatureAttributes,GroupCardinality,NumericConstraints,FeatureCardinality,AggregateFunctions,TypeFeatures,StringConstraints,Imports
+Knuppel2017_Pizza1,12,7,1,0,0,0,0,0,0,0,0
+Sundermann2024_Pizza,14,10,1,2,1,4,1,3,3,1,0
+Drave2019_Pizza2,15,8,1,0,0,0,0,0,0,0,0
+Apel2013_Sandwich,42,14,0,0,0,0,0,0,0,0,0
+Knuppel2017_Pizza2,8,4,1,0,0,0,0,0,0,0,0
+Knuppel2017_Pizza4,17,10,2,0,0,0,0,0,0,0,0
+Galindo2023_Sandwich3,7,4,1,0,0,0,0,0,0,0,0
+Sundermann2024_Icecream,9,6,2,0,0,0,0,0,0,0,0
+Galindo2023_Sandwich2,10,6,0,0,0,0,0,0,0,0,0
+Montero2008_FastFoodRestaurant,11,6,2,0,0,0,0,0,0,0,0
+Drave2019_Pizza3,15,8,1,0,0,0,0,0,0,0,0
+Drave2019_Pizza1,13,6,0,0,0,0,0,0,0,0,0
+Sundermann2024_VendingMachine,9,5,2,0,0,0,0,0,0,0,0
+Knuppel2017_Pizza3,12,7,2,0,0,0,0,0,0,0,0
+Galindo2023_Sandwich1,6,4,1,0,0,0,0,0,0,0,0
+Heb2024_Toasty,10,6,1,0,0,0,0,0,0,0,0
