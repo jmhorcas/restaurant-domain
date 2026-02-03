@@ -1,7 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Exploring Variability Modeling Challenges in UVL with a Dataset from the Restaurant Industry](#exploring-variability-modeling-challenges-in-uvl-with-a-dataset-from-the-restaurant-industry)
-  - [Artifact description](#artifact-description)
+- [Restaurants Dataset of FMs and Challenging Variability Modeling Scenarios in UVL](#restaurants-dataset-of-fms-and-challenging-variability-modeling-scenarios-in-uvl)
   - [Classification of FMs](#classification-of-fms)
   - [How to use it](#how-to-use-it)
     - [Requirements](#requirements)
@@ -9,11 +8,7 @@
     - [Execution of the scripts](#execution-of-the-scripts)
   
   
-# Exploring Variability Modeling Challenges in UVL with a Dataset from the Restaurant Industry
-This repository contains all the resources and artifacts that support the paper entitled "Exploring Variability Modeling Challenges in UVL with a Dataset from the Restaurant Industry" accepted at the 29th International Systems and Software Product Line Conference (SPLC 2025).
-
-
-## Artifact description
+# Restaurants Dataset of FMs and Challenging Variability Modeling Scenarios in UVL
 We present a dataset of feature models (FMs) of the restaurant business domain using the full expressiveness power of the [Universal Variability Language (UVL)](https://universal-variability-language.github.io/).
 
 The artifact includes:
